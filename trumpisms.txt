@@ -1,0 +1,27 @@
+STANDALONE Make ${1:THING}s great again!
+SUFFIX let me tell you
+SUFFIX believe me
+PHRASE And I'll tell you, we need to build a ${1:THING}. We need to build a ${1:THING}. And it just got 10 feet higher
+PHRASE we should make a database of all ${1:THING}s
+PREFIX And you know
+PREFIX You know
+PHRASE I love ${1:GPE}
+PHRASE ${1:PERSON} has said I'm so great
+PHRASE ${1:PERSON} endorsed me
+PHRASE I can make ${1:PERSON,POLITICIAN} tell the truth
+PHRASE ${1:FEMALE}, yeah she's hot. Perhaps I'd be dating her
+PHRASE ${1:FEMALE}, yeah she's a slob
+PHRASE ${1:FEMALE} cheated on him like a dog
+STANDALONE I promise not to talk about her massive plastic surgeries.
+PHRASE are they small? If ${1:THING}s are small, something else must be small
+PREFIX OK, let me tell you
+PHRASE I know ${1:PERSON} very well.
+PHRASE I've done business with ${1:PERSON,GPE}. I love ${1:PERSON,GPE}
+PHRASE I'm winning in the polls
+PHRASE you're gonna get used to winning ${1:THING}s. You're gonna win ${1:THING}s and win ${1:THING}s and win ${1:THING}s
+PHRASE I will make ${1:GPE} pay for it
+STANDALONE I just sold an apartment to $1{PERSON,GPE} for $15 million.
+PHRASE they're bringing ${1:THING}s and they're bringing crime
+PHRASE you know, ${1:PERSON} said 'Mr. Trump, you're a nice person.' And you know what, I am
+PHRASE I will build that ${1:THING}. And you know, it just got 10 feet higher
+PHRASE when did we beat ${1:GPE} at anything? ${1:GPE} is killing us
